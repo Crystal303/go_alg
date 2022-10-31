@@ -14,6 +14,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[118]杨辉三角.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/doc/content/[118]杨辉三角.md" />
+              <option name="frontendQuestionId" value="leetcode.cn118" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[118]杨辉三角.go" />
+              <option name="titleSlug" value="pascals-triangle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[119]杨辉三角 II.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/doc/content/[119]杨辉三角 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn119" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[119]杨辉三角 II.go" />
+              <option name="titleSlug" value="pascals-triangle-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[121]买卖股票的最佳时机.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/doc/content/[121]买卖股票的最佳时机.md" />
+              <option name="frontendQuestionId" value="leetcode.cn121" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[121]买卖股票的最佳时机.go" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[152]乘积最大子数组.go">
           <value>
             <LeetcodeEditor>
@@ -33,6 +66,50 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[1822]数组元素积的符号.go" />
               <option name="titleSlug" value="sign-of-the-product-of-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[392]判断子序列.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/doc/content/[392]判断子序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn392" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[392]判断子序列.go" />
+              <option name="titleSlug" value="is-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[509]斐波那契数.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/doc/content/[509]斐波那契数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn509" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[509]斐波那契数.go" />
+              <option name="titleSlug" value="fibonacci-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[70]爬楼梯.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/doc/content/[70]爬楼梯.md" />
+              <option name="frontendQuestionId" value="leetcode.cn70" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[70]爬楼梯.go" />
+              <option name="titleSlug" value="climbing-stairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[746]使用最小花费爬楼梯.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/doc/content/[746]使用最小花费爬楼梯.md" />
+              <option name="frontendQuestionId" value="leetcode.cn746" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/3v/dybhs02s6g5606xfyq0571_h0000gn/T/leetcode/editor/cn/[746]使用最小花费爬楼梯.go" />
+              <option name="titleSlug" value="min-cost-climbing-stairs" />
             </LeetcodeEditor>
           </value>
         </entry>
