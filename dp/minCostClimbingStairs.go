@@ -165,3 +165,40 @@ func getRow(rowIndex int) []int {
 	}
 	return ret
 }
+
+// arrayStringsAreEqual 检查字符串数组是否相等
+// 1 <= word1.length, word2.length <= 10³
+// 1 <= word1[i].length, word2[i].length <= 10³
+// 1 <= sum(word1[i].length), sum(word2[i].length) <= 10³
+// word1[i] 和 word2[i] 由小写字母组成
+func arrayStringsAreEqual(word1 []string, word2 []string) bool {
+	l1 := 0
+	for _, v := range word1 {
+		l1 += len(v)
+	}
+	l2 := 0
+	for _, v := range word2 {
+		l2 += len(v)
+	}
+	if l1 != l2 {
+		return false
+	}
+
+	i, j := 0, 0
+	for _, v := range word1 {
+		for _, c := range v {
+			if c == int32(word2[i][j]) {
+				j++
+				if len(word2[i]) <= j {
+					i++
+					j = 0
+				}
+				continue
+			} else {
+				return false
+			}
+		}
+	}
+
+	return true
+}
